@@ -1,6 +1,6 @@
 # Gerenciador de Notas
 
-Um simples gerenciador de notas onde você pode criar, listar, ler e excluir notas.
+Um simples gerenciador de notas onde você pode criar, listar, ler e excluir notas através do terminal.
 
 ## Funcionalidades
 
